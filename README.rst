@@ -7,6 +7,6 @@ Run with:
 
     python festive_turtle.py
 
-I even had the time to write a `blog post <>`_ about this.
+I even had the time to write a `blog post <http://marcobonzanini.com/2015/12/29/retrocomputing-and-python-import-turtle/>`_ about this.
 
 
